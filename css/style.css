@@ -67,3 +67,66 @@
     background: rgba(0,0,0,0.7);
     z-index: 1;
   }
+  /*Sections*/
+  .about-text{
+    padding-top: 50px;
+  
+  }
+  .card{
+    margin-bottom: 30px;
+  }
+  .w-100{
+    height: 100vh;
+  }
+  .objectif .card-body i{
+    font-size: 50px;
+  }
+  .Activity .card{
+    box-shadow: 15px 15px 40px rgba(0,0,0,0.15);
+  }
+  .team .card-body i{
+    font-size: 20px;
+  }
+  .team .card{
+    box-shadow: 15px 15px 40px rgba(0,0,0,0.15);
+  }
+
+  /*Responsive*/
+
+/*Tablet*/
+@media only screen and (min-width: 768px){
+  .navbar-nav{
+    text-align: left;
+  }  
+  .carousel-caption{
+      bottom: 370px;
+    }
+    .carousel-caption p{
+      width: 100%;
+    }
+    .about-text{
+      padding-top: 0px;
+    }
+    .card{
+      margin-bottom: 30px;
+    }
+    .img-area i{
+      width: 100%;
+    }
+}
+
+/*deskpost*/
+@media only screen and (min-width:570px) {
+  .carousel-caption{
+  bottom: 220px;
+  }
+  .carousel-caption h5{
+    font-size: 45px;
+  }
+  .carousel-caption p{
+    width: 60%;
+  }
+  .about-text{
+    padding-top: 0px;
+  }
+}
