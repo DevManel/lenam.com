@@ -1,5 +1,5 @@
 # lenam.com
-ÉVALUATION D’ENTRAÎNEMENT: Créer un site web avec HTML, CSS et Bootstrap
+Créer un site web avec HTML, CSS et Bootstrap
 
 créer un site internet vitrine présentant de nombreux intérêts pour une association, en termes de visibilité. 
 (c’est à vous de choisir une association, qu’elle soit réelle ou fictive, l’important sera votre code).
